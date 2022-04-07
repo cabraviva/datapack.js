@@ -1,5 +1,5 @@
 {
-  "name": "mc.js",
+  "name": "datapack.js",
   "version": "1.0.0",
   "description": "Create Minecraft Datapacks using node.js",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greencoder001/mc.js.git"
+    "url": "git+https://github.com/greencoder001/datapack.js.git"
   },
   "author": "greencoder001",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greencoder001/mc.js/issues"
+    "url": "https://github.com/greencoder001/datapack.js/issues"
   },
-  "homepage": "https://github.com/greencoder001/mc.js#readme",
+  "homepage": "https://github.com/greencoder001/datapack.js#readme",
   "dependencies": {
     "adm-zip": "^0.5.9",
     "js-yaml": "^4.1.0"
