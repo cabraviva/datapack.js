@@ -1,5 +1,5 @@
 // Import mc.js
-const { compilePack, definePack, Entity, Commands, onLoaded } = require('../index.js')
+const { compilePack, definePack, Entity, Commands, onLoaded, Events } = require('../index.js')
 
 // Import needed commands
 const { say, tellraw } = Commands
